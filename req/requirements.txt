@@ -1,0 +1,14 @@
+Dependencies required:
+matplotlib==3.9.0
+openpyxl==3.1.5
+pandas==2.2.2
+pip 24.0
+requests==2.32.3 (check for requests-cache==1.2.0 & requests-ratelimiter==0.6.0)
+scikit-learn==1.5.0
+scipy==1.13.1
+seaborn==0.13.2
+yfinance==0.2.40
+
+Optional dependencies:
+Backtesting==0.3.3
+beautifulsoup4==4.12.3
